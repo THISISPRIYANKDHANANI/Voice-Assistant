@@ -97,3 +97,9 @@ ARIA/
 MIT License
 
 ---
+
+# output
+![img](https://github.com/user-attachments/assets/a9882558-7568-4c9d-8efb-e72b48328b39)
+![img](https://github.com/user-attachments/assets/d50d2c15-2dd0-4a0a-8013-84e5a549feb5)
+![img](https://github.com/user-attachments/assets/4f53ed55-dff3-4eb6-9ae4-be5fdaec76f6)
+![img](https://github.com/user-attachments/assets/4ca891ef-b09a-448d-9cbd-ba78cded1635)
