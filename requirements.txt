@@ -1,0 +1,8 @@
+speechrecognition==3.14.3
+pywin32==310
+google-genai==1.23.0
+pillow
+requests
+python-dotenv
+youtube-search-python
+pyaudio
